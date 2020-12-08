@@ -1,0 +1,5 @@
+html2text
+fanficfare
+ff2zim
+chord
+wordcloud
